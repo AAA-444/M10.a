@@ -1,1 +1,5 @@
+Y= RungeKutta ('x-y**2',0 , 0 .2 ,0 , 0 . 8 )
 
+print ('y values from Runge -Kutta method :',Y )
+
+Milne ('x-y**2',0 , 0 .2 , Y[0],Y[1],Y[2],Y[3])
